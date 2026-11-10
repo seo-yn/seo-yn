@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:b993d6,50:e8707a,100:f6d365&height=160&section=header&text=Welcome%20to%20Seoyeon's%20GitHub%20👋&fontSize=25&fontColor=ffffff&fontAlign=50&fontAlignY=35&animation=fadeIn" />
 
-<h2>💁‍♀️ About Me</h2>
+<h2> About Me</h2>
 
 <p>데이터를 분석해 필요한 서비스를 만드는 개발자, <b>박서연</b>입니다.</p>
 
